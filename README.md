@@ -1,1 +1,0 @@
-# sbt-scala-template
